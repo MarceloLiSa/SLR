@@ -1,0 +1,131 @@
+body{
+    background-color: black;
+    margin: 0;
+    font-family: sans-serif;
+}
+header{
+    position: fixed;
+    width: 100%;
+}
+
+.div-logo{
+    background-color: #959595;
+    margin: 0;
+    padding-left: 10px;
+    display: flex;
+    border-bottom: solid 2px rgb(255, 232, 26);
+    
+    
+
+}
+.img-logo{
+    height: 100px;
+    width: 150px;
+    margin: 0;
+    padding: 0;
+
+}
+
+
+.nav-menu-div{
+    height: 45px;
+    align-content: center;
+    padding-top: 16px;
+
+    
+}
+
+
+.link-nav-bar{
+    text-decoration: none;
+    margin-left: 14px;
+    text-align: center;
+    color:black;
+
+
+}
+
+a.link-nav-bar{
+    text-align: center;
+    padding-top: 10px;
+
+}
+a.link-nav-bar:hover{
+    color:rgb(255, 232, 26) ;
+   
+
+}
+    
+
+
+.nav-menu-div  {
+    background-color: white;
+    position: flex;
+}
+.caca{
+    height: 1000px;
+    background-color: red;
+}
+.contenedor-gif{
+    height: 750px;
+    width: 100%;
+
+    border: solid yellow;
+    position: flex;
+    
+   
+}
+.gif-1{
+    margin-left:15px;   
+    position: flex; 
+    padding-top: 180px ;
+}
+
+
+#gif-slr{
+    margin: auto;
+   
+    align-content  : center;
+    height: 350px;
+    width: 350px;
+   
+}
+.img-lenny{
+    margin-left: 10px;
+    position: relative;
+}
+#img-lenny-1{
+    height: 200px;
+    width: 200px;
+}
+
+
+
+#spn1, #spn2{
+    position: flex;
+    color: red;
+    margin-left: 10px;
+}
+footer{
+    height: 200px;
+    background-color: red;
+    display: flex;
+}
+.everfree, .golden-lion{
+    width: 300px;
+    padding-top: 25px;
+    margin-left: 10px;
+    
+   
+}
+
+#golden-lion-logo{
+    border-radius: 100%;
+   
+    
+
+}
+#everfree-logo{
+    border-radius: 15%;
+    
+}

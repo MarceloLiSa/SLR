@@ -1,0 +1,99 @@
+body{
+    background-color: red;
+    font-family: sans-serif;
+
+
+}
+
+#logo-slr{
+    height: 75px;
+    width: 75px;
+    margin: 0 auto ;
+ 
+  
+}
+.container{
+  border:solid 2px black;
+  height: 80px;
+  padding-top: 25px;
+  padding-left: 10px;
+
+  
+  
+}
+.nosotros{
+    height: 50px;
+    width: 150px;
+    border: solid 2px black;
+    float: left;
+    text-align: center;
+   
+    
+    
+    
+    
+
+
+
+}
+.contacto{
+    height: 50px;
+    width: 150px;
+    border: solid 2px black;
+    float: left;
+    text-align: center;
+    margin-left: 10px;
+    
+
+    
+    
+    
+}
+
+.nosotros:hover{
+    text-shadow: 0 0 2px yellow;
+} .contacto:hover{
+    text-shadow: 0 0 2px yellow;
+}
+.container-central{
+    height: 600px;
+    border: solid 2px black;
+    margin-top: 10px;
+}
+#img-1{
+    height: 300px;
+    width: 300px;
+    margin-left: 20px;
+    margin-top: 20px;
+    float: left;
+}
+.texto-img1{
+   float: left;
+   margin-top: 20px;
+   margin-left: 25px;
+}
+
+footer{
+    height: 150px;
+    border: solid 2px black;
+    margin-top: 10px;
+}
+
+.everfree-logo{
+    height: 90px;
+    border-radius: 20px;
+}
+.golden-lion-logo{
+    height: 90px;
+    width: 120px;
+    border-radius: 20px;
+}
+
+
+.everfree-logo, .golden-lion-logo{
+    float: left;
+    margin-top: 20px;
+    margin-left: 20px;
+    
+
+}
